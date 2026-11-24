@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local run logs and deploy archives
+dev-live.*
+*.tar.gz
+
+# generated analysis reports
+.reporadar/
