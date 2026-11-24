@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Playpen+Sans+Arabic:wght@100..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&family=Handjet:wght@400..800&family=Playpen+Sans+Arabic:wght@100..800&display=swap");
 @import "tailwindcss";
 
 :root {
@@ -10,6 +10,8 @@
   --accent-soft: rgba(56, 189, 248, 0.15);
   --warm: #f97316;
   --warm-soft: rgba(249, 115, 22, 0.14);
+  --font-baloo: "Baloo Bhaijaan 2", sans-serif;
+  --font-handjet: "Handjet", monospace;
 }
 
 @theme inline {
